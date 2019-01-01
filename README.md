@@ -1,7 +1,7 @@
 # tic.bookdown
 
 <!-- badges: start -->
-[![Travis build status](https://travis-ci.org/krlmlr/tic.bookdown.svg?branch=master)](https://travis-ci.org/krlmlr/tic.bookdown)
+[![Travis build status](https://travis-ci.org/ropenscilabs/tic.bookdown.svg?branch=master)](https://travis-ci.org/ropenscilabs/tic.bookdown)
 <!-- badges: end -->
 
 This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown), built and deployed by _tic_. 
