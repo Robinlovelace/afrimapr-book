@@ -1,3 +1,9 @@
+# tic.bookdown
+
+<!-- badges: start -->
+[![Travis build status](https://travis-ci.org/krlmlr/tic.bookdown.svg?branch=master)](https://travis-ci.org/krlmlr/tic.bookdown)
+<!-- badges: end -->
+
 This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown), built and deployed by _tic_. 
 _tic_ is an R package for CI-agnostic workflow definitions for various R projects. 
 See its [documentation](https://ropenscilabs.github.io/tic/) for more information.
