@@ -25,4 +25,4 @@ If you want to experiment with _travis_ and _tic_ in this repo, you can fork it.
     You may need to set up your SSH credentials first. See [this guide](http://happygitwithr.com/ssh-keys.html) if you're having problems. 
     (It's definitely worth getting this function running as it saves you so much time in the future!) 
     Alternatively, fork this repo on Github and then create a new R Project within RStudio (File -> New Project -> Version Control -> Github). 
-1. Run `travis::use_tic()` to set up all requirements needed for the CI integration of your package.
+1. Run `tic::use_tic()` to set up all requirements needed for the CI integration of your package.
