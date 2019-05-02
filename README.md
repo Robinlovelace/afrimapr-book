@@ -2,7 +2,7 @@
 
 <!-- badges: start -->
 [![Travis build status](https://travis-ci.org/ropenscilabs/tic.bookdown.svg?branch=master)](https://travis-ci.org/ropenscilabs/tic.bookdown)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/ropenscilabs/tic.bookdown?branch=master&svg=true)](https://ci.appveyor.com/project/ropensci/tic.bookdown)
+[![Build status](https://ci.appveyor.com/api/projects/status/uqjyx4mrksnul9en/branch/master?svg=true)](https://ci.appveyor.com/project/ropensci/tic-bookdown/branch/master)
 [![Coverage Status](https://codecov.io/gh/ropenscilabs/tic.bookdown/branch/master/graph/badge.svg)](https://codecov.io/github/ropenscilabs/tic.bookdown?branch=master)
 <!-- badges: end -->
 
