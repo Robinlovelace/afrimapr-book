@@ -30,3 +30,7 @@ If you want to experiment with _travis_ and _tic_ for a _bookdown_ project, you 
     (It's definitely worth getting this function running as it saves you a lot of time in the future!) 
     Alternatively, fork this repo on Github and then create a new R Project within RStudio (File -> New Project -> Version Control -> Github). 
 1. Run `tic::use_tic()` to set up all requirements needed for the CI integration of your package.
+
+## Accessing the rendered book
+
+The rendered version of the book lives in the `gh-pages` branch (which will be automatically created if missing) and is served via _Github Pages_ using the following URL scheme: `https://<username>.github.io/<repo-name>`.
